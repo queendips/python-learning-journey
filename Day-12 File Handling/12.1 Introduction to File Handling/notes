@@ -1,0 +1,31 @@
+<!-- What is file? -->
+A file is a place on your computer where data is stored permanently.
+<!-- What is File Handling? -->
+File Handling is the process of creating, opening, reading, writing, updating, and deleting files using Python.
+<!-- Why Do We Need File Handling? -->
+Suppose you write a program like this:
+name = "bob"
+print(name)
+When the program ends, the value of name is lost.
+
+<!-- Advantages of File Handling -->
+✅ Permanent storage
+✅ Easy to read and update
+✅ Share data between programs
+✅ Store large amounts of information
+✅ Used in almost every software application
+
+<!-- File Handling Operations -->
+
+Python allows you to:
+
+Operation	Description
+Create	Create a new file
+Open	Open an existing file
+Read	Read data from a file
+Write	Write data into a file
+Append	Add data to the end of a file
+Update	Modify existing data
+Close	Close the file
+Delete	Delete the file
+

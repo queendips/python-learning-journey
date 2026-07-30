@@ -1,0 +1,3 @@
+Employee ID: 101
+Department: IT
+Salary: 71000
