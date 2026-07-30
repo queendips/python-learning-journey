@@ -1,0 +1,19 @@
+What is Error Handling?
+
+Error Handling is the process of detecting and handling errors in a program so that it doesn't crash unexpectedly.
+
+What is an Exception?
+An exception is an error that occurs while the program is running (runtime).
+Types of Errors in Python::
+1. Syntax Errors
+2. Runtime Errors (Exceptions)
+
+What is try?
+
+The try block contains the code that might cause an exception.
+If an exception occurs, Python immediately stops executing the rest of the try block and looks for a matching except block.
+
+What is except?
+
+The except block is used to handle the exception.
+Instead of crashing, the program executes the code inside except.
