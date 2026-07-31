@@ -1,0 +1,7 @@
+What is Encapsulation?
+
+Encapsulation means wrapping data (variables) and methods (functions) together into a single unit (class) and controlling how that data is accessed.
+Types of Access in Python
+* public
+* private
+* protected
