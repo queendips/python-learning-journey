@@ -1,0 +1,22 @@
+What is Abstraction?
+
+Abstraction means showing only the essential details and hiding the internal implementation.
+The user knows what an object does, but not necessarily how it does it.
+
+Think about driving a car.
+
+You only use:
+
+Steering wheel
+Brake
+Accelerator
+
+You don't need to know:
+
+How the engine works
+How fuel is injected
+How the transmission changes gears
+
+Those implementation details are hidden.
+
+This is abstraction.
