@@ -1,0 +1,22 @@
+What is OOP?
+
+OOP (Object-Oriented Programming) is a way of writing programs using objects.
+
+Instead of writing everything as functions, we create objects that contain:
+
+Data (variables)
+Actions (functions)
+
+These are called attributes and methods.
+
+Four Main Pillars of OOP==>
+
+We'll learn these one by one.
+
+1. Class
+2. Object
+3. Inheritance
+4. Polymorphism
+5. Encapsulation
+6. Abstraction
+
