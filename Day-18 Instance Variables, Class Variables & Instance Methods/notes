@@ -1,0 +1,14 @@
+What are Instance Variables?
+
+Instance variables are variables that belong to a specific object.
+Each object has its own copy of these variables.
+
+What are Class Variables?
+
+Class variables are shared by all objects.
+Instead of storing the value in every object, it is stored once in the class.
+
+What is an Instance Method?
+
+An instance method is a function inside a class that works with the object's data.
+It always takes self as its first parameter.
