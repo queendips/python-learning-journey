@@ -1,0 +1,12 @@
+What is Polymorphism?
+
+Polymorphism means "many forms."
+
+The same method or operator can perform different actions depending on the object or data.
+
+Poly = Many
+Morph = Forms
+
+Types of Polymorphism in Python
+Method Overriding
+Operator Overloading
