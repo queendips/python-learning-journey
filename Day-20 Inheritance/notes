@@ -1,0 +1,7 @@
+What is Inheritance?
+
+Inheritance allows one class to reuse the properties and methods of another class.
+Instead of writing the same code again, a new class can inherit from an existing class.
+
+Parent Class (Base Class) → Provides common features.
+Child Class (Derived Class) → Reuses those features and can add new ones.
